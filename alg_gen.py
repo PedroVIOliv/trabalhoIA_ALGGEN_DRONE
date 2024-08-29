@@ -97,13 +97,22 @@ class GeneticAlgorithm:
         self.population_size = population_size
         self.generations = generations
         self.best_5_per_generation = []
+        self.stagnation_counter = 0
+        self.best_fitness = float('inf')
+
+    def adaptive_mutation_rate(self):
+        if self.stagnation_counter > 50:  # Example threshold
+            self.problem.mutation_rate = 0.8
+            self.stagnation_counter = 0  # Reset counter after adapting
+        elif self.problem.mutation_rate > 0.1:
+            self.problem.mutation_rate -= 0.01  # Gradually reduce mutation rate
 
     def create_individual(self):
         path = list(range(1, len(self.problem.points) - 1))
         random.shuffle(path)
         return Individual(path, self.problem)
 
-    def crossover(self, parent1, parent2):
+    def order_crossover(self, parent1, parent2):
         start, end = sorted(random.sample(range(len(parent1.path)), 2))
         child_path = [-1] * len(parent1.path)
         child_path[start:end] = parent1.path[start:end]
@@ -116,10 +125,65 @@ class GeneticAlgorithm:
             child_path[child_path.index(-1)] = 0
         child = Individual(child_path, self.problem)
         return child
+    
+    def partially_matched_crossover(self, parent1, parent2):
+        # Subroutes and in a 0
+        parent1_path = parent1.path.copy()
+        parent2_path = parent2.path.copy()
+        parent1_subroutes = []
+        parent2_subroutes = []
+        route = []
+        for i in parent1_path:
+            if i == 0:
+                parent1_subroutes.append(route)
+                route = []
+            else:
+                route.append(i)
+        if len(route) > 0:
+            parent1_subroutes.append(route)
+        route = []
+        for i in parent2_path:
+            if i == 0:
+                parent2_subroutes.append(route)
+                route = []
+            else:
+                route.append(i)
+        if len(route) > 0:
+            parent2_subroutes.append(route)
+
+        # Crossover
+        already_added_cities = []
+        child_route = []
+        while len(parent1_subroutes) > 0 and len(parent2_subroutes) > 0:
+            #select random subroute from parent1
+            if len(parent1_subroutes) > 0:
+                subroute_1 = parent1_subroutes.pop(random.randint(0,len(parent1_subroutes)-1))
+                for i in subroute_1:
+                    if i not in already_added_cities:
+                        already_added_cities.append(i)
+                        child_route.append(i)
+                child_route.append(0)
+            #select random subroute from parent2
+            if len(parent2_subroutes) > 0:
+                subroute_2 = parent2_subroutes.pop(random.randint(0,len(parent2_subroutes)-1))
+                for i in subroute_2:
+                    if i not in already_added_cities:
+                        already_added_cities.append(i)
+                        child_route.append(i)
+                child_route.append(0)
+        child = Individual(child_route, self.problem)
+        return child
+
+
+
+        
+
+
 
     def tournament_selection(self, population, tournament_size=3):
         tournament = random.sample(population, tournament_size)
         return min(tournament, key=lambda individual: individual.fitness)
+    
 
     def run(self):
         population = [self.create_individual() for _ in range(self.population_size)]
@@ -128,15 +192,24 @@ class GeneticAlgorithm:
             population.sort(key=lambda individual: individual.fitness)
             self.best_5_per_generation.append([ind.path for ind in population[:5]])
             
-            if generation % 100 == 0:
-                print(f"Generation {generation}: Best fitness = {population[0].fitness}")
+            current_best_fitness = population[0].fitness
+            if current_best_fitness < self.best_fitness:
+                self.best_fitness = current_best_fitness
+                self.stagnation_counter = 0
+            else:
+                self.stagnation_counter += 1
+
+            self.adaptive_mutation_rate()
+
+            if generation % 2 == 0:
+                print(f"Generation {generation}: Best fitness = {self.best_fitness}")
                 print(f'Best solution: {population[0].path}')
 
             new_population = population[:2]  # Elitism
 
             while len(new_population) < self.population_size:
                 parent1, parent2 = random.sample(population[:50], 2)
-                child = self.crossover(parent1, parent2)
+                child = self.partially_matched_crossover(parent1, parent2)
                 if random.random() < self.problem.mutation_rate:
                     child.mutate()
                 new_population.append(child)
