@@ -15,15 +15,16 @@ class DroneDeliveryProblem:
         self.points = [Point(p['x'], p['y'], p['peso']) for p in data['pontos']]
         self.base = self.points[0]  # Assuming first and last points are the base
         self.drone_weight = 10  # Example drone weight
-        self.max_capacity = 25 # Example max capacity
+        self.max_capacity = 25  # Example max capacity
         self.battery_capacity = 2200  # Example battery capacity
+        self.viable_solution = False
+        self.mutation_rate = 0.8
 
     def distance(self, p1, p2):
         return math.sqrt((p1.x - p2.x)**2 + (p1.y - p2.y)**2)
 
     def calculate_fitness(self, path):
-        if(path[1] == 0):
-            pass #debug
+        is_viable_solution = True
         path = [0] + path + [0]  # Start and end with base
         total_battery_usage = 0
         current_weight = self.drone_weight
@@ -41,17 +42,57 @@ class DroneDeliveryProblem:
             current_battery -= battery_usage
 
             if current_battery < 0 or current_weight > self.max_capacity:
-                #apply a penalty to the fitness function
                 total_battery_usage += 50000
+                is_viable_solution = False
             
-            if(path[i-1] == 0):
+            if path[i-1] == 0:
                 current_weight = self.drone_weight
                 current_battery = self.battery_capacity
 
+        if not self.viable_solution and is_viable_solution:
+            self.viable_solution = True
+            self.mutation_rate = 0.1
         return total_battery_usage
 
+class Individual:
+    def __init__(self, path, problem):
+        self.path = path
+        self.problem = problem
+        self.fitness = None
+        self.normalize()
+        self.calculate_fitness()
+        
+
+    def calculate_fitness(self):
+        self.fitness = self.problem.calculate_fitness(self.path)
+
+    def mutate(self):
+        if random.random() < 0.5:
+            if random.random() < 0.5:
+                i = random.randint(1, len(self.path) - 1)
+                self.path.insert(i, 0)
+            else:
+                #take out a random 0
+                zero_indexes = [i for i, x in enumerate(self.path) if x == 0]
+                if len(zero_indexes) > 1:
+                    self.path.pop(random.choice(zero_indexes))
+        else:
+            i, j = random.sample(range(1, len(self.path)), 2)
+            self.path[i], self.path[j] = self.path[j], self.path[i]
+        
+        self.normalize()
+        self.calculate_fitness()
+
+    def normalize(self):
+        i = 0
+        while i < len(self.path):
+            if self.path[i] == 0 and (i == 0 or i == len(self.path) - 1 or self.path[i - 1] == 0):
+                self.path.pop(i)
+            else:
+                i += 1
+
 class GeneticAlgorithm:
-    def __init__(self, problem, population_size=1000, generations=2000):
+    def __init__(self, problem, population_size=2000, generations=2000):
         self.problem = problem
         self.population_size = population_size
         self.generations = generations
@@ -60,87 +101,55 @@ class GeneticAlgorithm:
     def create_individual(self):
         path = list(range(1, len(self.problem.points) - 1))
         random.shuffle(path)
-        return path  # Start and end with base
+        return Individual(path, self.problem)
 
     def crossover(self, parent1, parent2):
-        for i in range(len(parent1)):
-            if parent1[i] == 0 or (len(parent2)>i and parent2[i] == 0):
-                break #debug
-        # Order crossover
-        start, end = sorted(random.sample(range(len(parent1)), 2))
-        child = [-1] * len(parent1)
-        child[start:end] = parent1[start:end]
+        start, end = sorted(random.sample(range(len(parent1.path)), 2))
+        child_path = [-1] * len(parent1.path)
+        child_path[start:end] = parent1.path[start:end]
         i = end
-        for gene in parent2[end:] + parent2[:end]:
-            if gene not in child and gene != 0:
-                child[i % len(parent1)] = gene
+        for gene in parent2.path[end:] + parent2.path[:end]:
+            if gene not in child_path and gene != 0:
+                child_path[i % len(parent1.path)] = gene
                 i += 1
-        while -1 in child:
-            child[child.index(-1)] = 0
-        if 1 not in child or 2 not in child or 3 not in child:
-            pass
+        while -1 in child_path:
+            child_path[child_path.index(-1)] = 0
+        child = Individual(child_path, self.problem)
         return child
 
-    def mutate(self, individual):
-    # Introduce a random mutation that adds a return to the base at a random position
-        if random.random() < 0.5: #inserts a return to the base
-            i = random.randint(1, len(individual) - 1)
-            individual.insert(i, 0)
-            if random.random()<0.1:
-                self.mutate(individual)
-            return
-
-        # Traditional mutation: swap two points
-        i, j = random.sample(range(1, len(individual)), 2)
-        individual[i], individual[j] = individual[j], individual[i]
-        if random.random() < 0.1:
-            self.mutate(individual)
-
-    def normalize(self, individual):
-        #removes multiple returns to the base in a row or 0 at the begin or end
-        i = 0
-        while i < len(individual):
-            if individual[i] == 0 and (i == 0 or i == len(individual) - 1 or individual[i - 1] == 0):
-                individual.pop(i)
-            else:
-                i += 1
-        return individual
+    def tournament_selection(self, population, tournament_size=3):
+        tournament = random.sample(population, tournament_size)
+        return min(tournament, key=lambda individual: individual.fitness)
 
     def run(self):
         population = [self.create_individual() for _ in range(self.population_size)]
 
         for generation in range(self.generations):
-            population = sorted(population, key=lambda x: self.problem.calculate_fitness(x))
-            
-            self.best_5_per_generation.append(population[:5])
-
+            population.sort(key=lambda individual: individual.fitness)
+            self.best_5_per_generation.append([ind.path for ind in population[:5]])
             
             if generation % 100 == 0:
-                print(f"Generation {generation}: Best fitness = {self.problem.calculate_fitness(population[0])}")
-                print(f'Best solution: {population[0]}')
+                print(f"Generation {generation}: Best fitness = {population[0].fitness}")
+                print(f'Best solution: {population[0].path}')
 
             new_population = population[:2]  # Elitism
 
             while len(new_population) < self.population_size:
                 parent1, parent2 = random.sample(population[:50], 2)
                 child = self.crossover(parent1, parent2)
-                if random.random() < 0.1:
-                    self.mutate(child)
-                #lets take out multiple returns to the base in a row or 0 at the begin or end with a function
-                child = self.normalize(child)
+                if random.random() < self.problem.mutation_rate:
+                    child.mutate()
                 new_population.append(child)
 
             population = new_population
 
-        best_solution = min(population, key=lambda x: self.problem.calculate_fitness(x))
-        return best_solution, self.problem.calculate_fitness(best_solution)
+        best_solution = min(population, key=lambda individual: individual.fitness)
+        return best_solution.path, best_solution.fitness
 
 # Usage
 problem = DroneDeliveryProblem('drone_problem.json')
 ga = GeneticAlgorithm(problem)
 best_path, best_fitness = ga.run()
-
-#save the best 5 of each generation to a file
 
 with open('best_5_per_generation.json', 'w') as f:
     json.dump(ga.best_5_per_generation, f)
