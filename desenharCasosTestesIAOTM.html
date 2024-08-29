@@ -1,0 +1,215 @@
+<html>
+<head>
+    <base href="https://drone-delivery-optimization.ai/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otimização de Sistema de Entrega por Drones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        #canvas {
+            background-color: white;
+            border: 1px solid #ccc;
+            cursor: crosshair;
+        }
+        #controls {
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px;
+            margin-right: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #pointInfo, #jsonOutput {
+            margin-top: 20px;
+        }
+        #jsonOutput {
+            width: 100%;
+            height: 200px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+<h1>Otimização de Sistema de Entrega por Drones</h1>
+<canvas id="canvas" width="800" height="600"></canvas>
+<div id="controls">
+    <label for="scaleSlider">Escala: <span id="scaleValue">1.0</span>x</label>
+    <input type="range" id="scaleSlider" min="0.1" max="5" step="0.1" value="1">
+    <button id="addBase">Adicionar Base</button>
+    <button id="addDeliveryPoint">Adicionar Ponto de Entrega</button>
+    <button id="clear">Limpar Tudo</button>
+    <button id="generateJSON">Gerar JSON</button>
+    <input type="file" id="jsonFileInput" accept=".json">
+    <button id="loadJSON">Carregar JSON</button>
+</div>
+<div id="pointInfo"></div>
+<textarea id="jsonOutput" readonly></textarea>
+
+<script>
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+const addBaseBtn = document.getElementById('addBase');
+const addDeliveryPointBtn = document.getElementById('addDeliveryPoint');
+const clearBtn = document.getElementById('clear');
+const generateJSONBtn = document.getElementById('generateJSON');
+const jsonOutput = document.getElementById('jsonOutput');
+const pointInfo = document.getElementById('pointInfo');
+const scaleSlider = document.getElementById('scaleSlider');
+const scaleValue = document.getElementById('scaleValue');
+const jsonFileInput = document.getElementById('jsonFileInput');
+const loadJSONBtn = document.getElementById('loadJSON');
+
+let base = null;
+let pontosDeEntrega = [];
+let modoAtual = null;
+let escala = 1.0;
+
+function desenharPonto(x, y, cor, tamanho = 10) {
+    ctx.fillStyle = cor;
+    ctx.beginPath();
+    ctx.arc(x * escala, y * escala, tamanho, 0, 2 * Math.PI);
+    ctx.fill();
+}
+
+function desenharBase(x, y) {
+    desenharPonto(x, y, 'red', 15);
+    ctx.fillStyle = 'white';
+    ctx.font = '12px Arial';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('B', x * escala, y * escala);
+}
+
+function desenharPontoDeEntrega(ponto, index) {
+    desenharPonto(ponto.x, ponto.y, 'blue');
+    ctx.fillStyle = 'white';
+    ctx.font = '10px Arial';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText(index + 1, ponto.x * escala, ponto.y * escala);
+}
+
+function redesenhar() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    if (base) {
+        desenharBase(base.x, base.y);
+    }
+    pontosDeEntrega.forEach((ponto, index) => {
+        desenharPontoDeEntrega(ponto, index);
+    });
+}
+
+function atualizarInfoPontos() {
+    let info = 'Base: ' + (base ? `(${base.x}, ${base.y})` : 'Não definida') + '<br>';
+    info += 'Pontos de Entrega:<br>';
+    pontosDeEntrega.forEach((ponto, index) => {
+        info += `${index + 1}: (${ponto.x}, ${ponto.y}) - peso: ${ponto.peso}<br>`;
+    });
+    pointInfo.innerHTML = info;
+}
+
+canvas.addEventListener('click', (e) => {
+    const rect = canvas.getBoundingClientRect();
+    const x = Math.round((e.clientX - rect.left) / escala);
+    const y = Math.round((e.clientY - rect.top) / escala);
+
+    if (modoAtual === 'base') {
+        base = { x, y };
+        modoAtual = null;
+        addBaseBtn.disabled = false;
+    } else if (modoAtual === 'entrega') {
+        const peso = prompt('Digite o peso para este ponto de entrega:', '10');
+        if (peso !== null) {
+            pontosDeEntrega.push({ x, y, peso: parseFloat(peso) });
+        }
+        modoAtual = 'entrega';
+        addDeliveryPointBtn.disabled = false;
+    }
+
+    redesenhar();
+    atualizarInfoPontos();
+});
+
+addBaseBtn.addEventListener('click', () => {
+    modoAtual = 'base';
+    addBaseBtn.disabled = true;
+});
+
+addDeliveryPointBtn.addEventListener('click', () => {
+    modoAtual = 'entrega';
+    addDeliveryPointBtn.disabled = true;
+});
+
+clearBtn.addEventListener('click', () => {
+    base = null;
+    pontosDeEntrega = [];
+    redesenhar();
+    atualizarInfoPontos();
+    jsonOutput.value = '';
+});
+
+generateJSONBtn.addEventListener('click', () => {
+    if (!base) {
+        alert('Por favor, defina um ponto de base primeiro.');
+        return;
+    }
+
+    const casoDeTeste = {
+        pontos: [
+            { x: base.x, y: base.y, peso: 0 },
+            ...pontosDeEntrega,
+            { x: base.x, y: base.y, peso: 0 }
+        ]
+    };
+
+    jsonOutput.value = JSON.stringify(casoDeTeste, null, 2);
+});
+
+scaleSlider.addEventListener('input', () => {
+    escala = parseFloat(scaleSlider.value).toFixed(1);
+    scaleValue.textContent = escala;
+    redesenhar();
+});
+
+loadJSONBtn.addEventListener('click', () => {
+    const file = jsonFileInput.files[0];
+    if (!file) {
+        alert('Por favor, selecione um arquivo JSON primeiro.');
+        return;
+    }
+
+    const reader = new FileReader();
+    reader.onload = (e) => {
+        try {
+            const data = JSON.parse(e.target.result);
+            if (data.pontos && data.pontos.length > 0) {
+                base = data.pontos[0];
+                pontosDeEntrega = data.pontos.slice(1, -1); // Excluindo a base final duplicada
+                redesenhar();
+                atualizarInfoPontos();
+            } else {
+                alert('JSON inválido ou sem dados suficientes.');
+            }
+        } catch (err) {
+            alert('Erro ao ler o arquivo JSON: ' + err.message);
+        }
+    };
+    reader.readAsText(file);
+});
+
+redesenhar();
+atualizarInfoPontos();
+</script>
+</body>
+</html>
