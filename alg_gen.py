@@ -60,6 +60,8 @@ class Individual:
         self.problem = problem
         self.fitness = None
         self.normalize()
+        if random.random() < self.problem.mutation_rate:
+            self.mutate()
         self.calculate_fitness()
         
 
@@ -77,11 +79,15 @@ class Individual:
                 if len(zero_indexes) > 1:
                     self.path.pop(random.choice(zero_indexes))
         else:
-            i, j = random.sample(range(1, len(self.path)), 2)
-            self.path[i], self.path[j] = self.path[j], self.path[i]
+            #select two random cities and swap them
+            city_indexes = [i for i, x in enumerate(self.path) if x != 0]
+            if len(city_indexes) > 1:
+                i, j = random.sample(city_indexes, 2)
+                if(self.path[i] > 0 and self.path[i] < 5):
+                    pass #debug
+                self.path[i], self.path[j] = self.path[j], self.path[i]
         
         self.normalize()
-        self.calculate_fitness()
 
     def normalize(self):
         i = 0
@@ -92,7 +98,7 @@ class Individual:
                 i += 1
 
 class GeneticAlgorithm:
-    def __init__(self, problem, population_size=2000, generations=200):
+    def __init__(self, problem, population_size=2000, generations=2000):
         self.problem = problem
         self.population_size = population_size
         self.generations = generations
@@ -102,7 +108,7 @@ class GeneticAlgorithm:
 
     def adaptive_mutation_rate(self):
         if self.stagnation_counter > 50:  # Example threshold
-            self.problem.mutation_rate = 0.8
+            self.problem.mutation_rate = 0.9
             self.stagnation_counter = 0  # Reset counter after adapting
         elif self.problem.mutation_rate > 0.1:
             self.problem.mutation_rate -= 0.01  # Gradually reduce mutation rate
@@ -174,15 +180,15 @@ class GeneticAlgorithm:
         child = Individual(child_route, self.problem)
         return child
 
-
-
-        
-
-
-
     def tournament_selection(self, population, tournament_size=3):
-        tournament = random.sample(population, tournament_size)
-        return min(tournament, key=lambda individual: individual.fitness)
+        tournament1 = random.sample(population, tournament_size)
+        min_individual1 = min(tournament1, key=lambda individual: individual.fitness)
+        tournament2 = random.sample(population, tournament_size)
+        min_individual2 = min(tournament2, key=lambda individual: individual.fitness)
+        return min_individual1, min_individual2
+    
+    def random_sample_selection(self, population, cut=50):
+        return random.sample(population[:cut], 2)
     
 
     def run(self):
@@ -204,14 +210,13 @@ class GeneticAlgorithm:
             if generation % 2 == 0:
                 print(f"Generation {generation}: Best fitness = {self.best_fitness}")
                 print(f'Best solution: {population[0].path}')
-
-            new_population = population[:2]  # Elitism
+            elitism_number = int(self.population_size * 0.05)
+            elitism_number += elitism_number % 2 #evening the elitism number
+            new_population = population[:elitism_number]
 
             while len(new_population) < self.population_size:
-                parent1, parent2 = random.sample(population[:50], 2)
+                parent1, parent2 = self.tournament_selection(population)
                 child = self.partially_matched_crossover(parent1, parent2)
-                if random.random() < self.problem.mutation_rate:
-                    child.mutate()
                 new_population.append(child)
 
             population = new_population
@@ -220,7 +225,7 @@ class GeneticAlgorithm:
         return best_solution.path, best_solution.fitness
 
 # Usage
-problem = DroneDeliveryProblem('drone_problem.json')
+problem = DroneDeliveryProblem('drone_problem_2.json')
 ga = GeneticAlgorithm(problem)
 best_path, best_fitness = ga.run()
 
