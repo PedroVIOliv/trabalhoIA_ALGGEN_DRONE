@@ -14,9 +14,9 @@ class DroneDeliveryProblem:
             data = json.load(f)
         self.points = [Point(p['x'], p['y'], p['peso']) for p in data['pontos']]
         self.base = self.points[0]  # Assuming first and last points are the base
-        self.drone_weight = 10  # Example drone weight
-        self.max_capacity = 25  # Example max capacity
-        self.battery_capacity = 2200  # Example battery capacity
+        self.drone_weight = data['drone_weight']
+        self.max_capacity = data['max_capacity']
+        self.battery_capacity = data['battery_capacity']
         self.viable_solution = False
         self.mutation_rate = 0.8
 
@@ -220,7 +220,7 @@ class GeneticAlgorithm:
         return best_solution.path, best_solution.fitness
 
 # Usage
-problem = DroneDeliveryProblem('drone_problem.json')
+problem = DroneDeliveryProblem('drone_problem_1.json')
 ga = GeneticAlgorithm(problem)
 best_path, best_fitness = ga.run()
 

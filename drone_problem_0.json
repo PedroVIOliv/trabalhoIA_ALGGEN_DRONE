@@ -1,4 +1,7 @@
 {
+  "drone_weight": 10,
+  "max_capacity": 25,
+  "battery_capacity": 2200,
   "pontos": [
     {
       "x": 83,
