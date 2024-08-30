@@ -92,7 +92,7 @@ class Individual:
                 i += 1
 
 class GeneticAlgorithm:
-    def __init__(self, problem, population_size=2000, generations=2000):
+    def __init__(self, problem, population_size=2000, generations=200):
         self.problem = problem
         self.population_size = population_size
         self.generations = generations
@@ -220,7 +220,7 @@ class GeneticAlgorithm:
         return best_solution.path, best_solution.fitness
 
 # Usage
-problem = DroneDeliveryProblem('drone_problem_1.json')
+problem = DroneDeliveryProblem('drone_problem.json')
 ga = GeneticAlgorithm(problem)
 best_path, best_fitness = ga.run()
 
