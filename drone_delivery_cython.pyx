@@ -6,6 +6,7 @@ cimport cython
 from libc.math cimport sqrt
 from cpython cimport array
 import array
+import time
 
 cdef class Point:
     cdef public double x
@@ -117,6 +118,7 @@ cdef class Individual:
         while i < len(self.path):
             if self.path[i] == 0 and (i == 0 or i == len(self.path) - 1 or self.path[i - 1] == 0):
                 self.path.pop(i)
+                i-=1
             else:
                 i += 1
 
@@ -127,6 +129,7 @@ cdef class GeneticAlgorithm:
     cdef public list best_5_per_generation
     cdef public int stagnation_counter
     cdef public double best_fitness
+    cdef public list fitness_over_time
 
     def __init__(self, DroneDeliveryProblem problem, int population_size=2000, int generations=2000):
         self.problem = problem
@@ -135,6 +138,7 @@ cdef class GeneticAlgorithm:
         self.best_5_per_generation = []
         self.stagnation_counter = 0
         self.best_fitness = float('inf')
+        self.fitness_over_time = []
 
     cpdef void adaptive_mutation_rate(self):
         if self.stagnation_counter > 50:
@@ -215,12 +219,17 @@ cdef class GeneticAlgorithm:
         cdef int elitism_number
         cdef list new_population
         cdef Individual parent1, parent2, child, best_solution
+        cdef double start_time = time.time()
 
         for generation in range(self.generations):
             population.sort(key=self._get_fitness)
             self.best_5_per_generation.append([ind.path for ind in population[:5]])
 
             current_best_fitness = population[0].fitness
+
+            elapsed_time = time.time() - start_time
+            self.fitness_over_time.append((current_best_fitness, elapsed_time))
+
             if current_best_fitness < self.best_fitness:
                 self.best_fitness = current_best_fitness
                 self.stagnation_counter = 0
@@ -258,6 +267,8 @@ def main():
 
     with open('best_5_per_generation.json', 'w') as f:
         json.dump(ga.best_5_per_generation, f)
+    with open('fitness_over_time.json', 'w') as f:
+        json.dump(ga.fitness_over_time, f)
 
     print(f"Best path: {best_path}")
     print(f"Best fitness: {best_fitness}")
