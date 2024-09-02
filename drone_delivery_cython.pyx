@@ -48,13 +48,13 @@ cdef class DroneDeliveryProblem:
         cdef double total_battery_usage = 0
         cdef double current_weight = self.drone_weight
         cdef double current_battery = self.battery_capacity
-        cdef int i, path_len = len(path)
         cdef Point current_point, next_point
         cdef double distance, battery_usage
-
+        
         path = [0] + path + [0]  # Start and end with base
+        cdef int i, path_len = len(path)
 
-        for i in range(path_len, 0, -1):
+        for i in range(path_len-1, 0, -1):
             current_point = self.points[path[i]]
             next_point = self.points[path[i-1]]
 
