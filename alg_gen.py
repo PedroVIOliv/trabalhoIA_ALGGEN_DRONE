@@ -35,8 +35,8 @@ class DroneDeliveryProblem:
             next_point = self.points[path[i-1]]
             
             distance = self.distance(current_point, next_point)
-            current_weight += next_point.weight
             battery_usage = distance * current_weight
+            current_weight += next_point.weight
             
             total_battery_usage += battery_usage
             current_battery -= battery_usage
