@@ -124,7 +124,7 @@ cdef class GeneticAlgorithm:
     cdef public DroneDeliveryProblem problem
     cdef public int population_size
     cdef public int generations
-    cdef public list best_5_per_generation
+    cdef public list generation_data
     cdef public int stagnation_counter
     cdef public double best_fitness
     cdef public list fitness_over_time
@@ -133,7 +133,7 @@ cdef class GeneticAlgorithm:
         self.problem = problem
         self.population_size = population_size
         self.generations = generations
-        self.best_5_per_generation = []
+        self.generation_data = []
         self.stagnation_counter = 0
         self.best_fitness = float('inf')
         self.fitness_over_time = []
@@ -221,9 +221,15 @@ cdef class GeneticAlgorithm:
 
         for generation in range(self.generations):
             population.sort(key=self._get_fitness)
-            self.best_5_per_generation.append([ind.path for ind in population[:5]])
 
             current_best_fitness = population[0].fitness
+            current_worst_fitness = population[-1].fitness
+            mean_fitness = sum([ind.fitness for ind in population]) / self.population_size
+            self.generation_data.append({
+                'best_fitness': current_best_fitness,
+                'worst_fitness': current_worst_fitness,
+                'mean_fitness': mean_fitness
+            })
 
             elapsed_time = time.time() - start_time
             self.fitness_over_time.append((current_best_fitness, elapsed_time))
@@ -236,9 +242,9 @@ cdef class GeneticAlgorithm:
 
             self.adaptive_mutation_rate()
 
-            if generation % 2 == 0:
-                print(f"Generation {generation}: Best fitness = {self.best_fitness}")
-                print(f'Best solution: {population[0].path}')
+            #if generation % 2 == 0:
+            #    print(f"Generation {generation}: Best fitness = {self.best_fitness}")
+            #    print(f'Best solution: {population[0].path}')
 
             elitism_number = int(self.population_size * 0.05)
             elitism_number += elitism_number % 2

@@ -1,0 +1,5002 @@
+[
+  {
+    "best_fitness": 104785.20360980663,
+    "worst_fitness": 258793.36603005455,
+    "mean_fitness": 210898.02415147665
+  },
+  {
+    "best_fitness": 4065.939006051012,
+    "worst_fitness": 258348.2156911974,
+    "mean_fitness": 174677.45051568447
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 208681.49014930837,
+    "mean_fitness": 120140.99112685937
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205121.7912021599,
+    "mean_fitness": 50349.74440921674
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 13032.61394367119
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 7851.241674714009
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 9757.008902120555
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9174.218633333283
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10652.340946784678
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9101.432077178959
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9256.314671679043
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8306.629246512877
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10357.46502098548
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9756.84220641278
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9752.700083660277
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8398.732885450885
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8242.872843005298
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9002.016617774028
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10009.32688344818
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8305.578889694767
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9003.730457601583
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8150.130706101792
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9158.595065999687
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9300.237431614558
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8290.819231500049
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9861.66475045425
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9806.721812671543
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9664.939000532173
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 7803.142657424998
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9105.258063454172
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8943.817566565656
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9063.574728015188
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10157.633349749396
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8651.57146361162
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10203.466442714538
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10069.648974799664
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9151.781409636902
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9414.615955932759
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9995.25413987365
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9248.644792617923
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8794.697362239061
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9655.625500971679
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10221.945921742943
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8654.267658170966
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8948.662948926749
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8299.941249920947
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9099.629148689522
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8900.398183655303
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 9249.16801250094
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10846.177071657845
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8147.299463982305
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8745.47153264465
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 10465.195638493306
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 8405.068436083393
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 48965.47901605736
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 46624.579993117004
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 43799.82094347418
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 38003.392858639025
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 39233.71862562573
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 36848.08754759522
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 32167.559435343417
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 158001.6273272036,
+    "mean_fitness": 36287.861901447155
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 35127.18419256085
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 34935.605924972755
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 33349.91167263993
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 158022.8949512278,
+    "mean_fitness": 32635.992928539818
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 34779.81953986079
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34140.922116681475
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 34195.87485639513
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 34167.773418642995
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204738.51105970846,
+    "mean_fitness": 32534.288028462623
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 36936.757171454774
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 35294.72581837564
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 35111.32660533458
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155701.72532289813,
+    "mean_fitness": 34994.317038516536
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 37010.78555424223
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 34708.54721132032
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205307.621911051,
+    "mean_fitness": 31702.226523571862
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 33291.523860267116
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 32323.21472248683
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 35615.72004177248
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991186,
+    "mean_fitness": 30192.784053790037
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31127.334350493547
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 30026.72760385785
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 32527.70735597433
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 33106.50952276111
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 31186.111816103014
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28485.359170462343
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155212.22599346124,
+    "mean_fitness": 29905.11663854486
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 31363.456846585203
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155212.22599346124,
+    "mean_fitness": 27366.567080672652
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 29761.78067734065
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 30034.895646754754
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 30147.94080451751
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 29758.627283865746
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26934.319161349078
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 25802.40897049563
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23562.38425763728
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25615.636829888535
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155509.47123758978,
+    "mean_fitness": 26550.566703139004
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 27102.928368088153
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 26548.627232619132
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23787.16792574101
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 26062.20774925096
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 24680.373203774576
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 45876.34406921631
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 42601.628894233516
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 40627.701346987655
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 40151.64895611557
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 36305.511537991595
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205307.62191105104,
+    "mean_fitness": 36046.21650651794
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204945.10826131862,
+    "mean_fitness": 36970.20596838032
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 35001.428005467904
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 35292.347858386354
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205122.4487516198,
+    "mean_fitness": 34683.00871679045
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156523.99059902967,
+    "mean_fitness": 35376.86079754347
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 31902.125780195478
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 32617.564905528063
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 32816.407814108854
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 31494.303419563523
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 36260.42255130431
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31347.4765398311
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 34872.45240714327
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.57747668712,
+    "mean_fitness": 34063.548136931175
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 34978.68635310691
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 31863.12835766115
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 32115.683451202905
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204581.75535694728,
+    "mean_fitness": 35614.697081759856
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 33755.398933211654
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 33484.62518294131
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33542.788672936134
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 31233.136403840355
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 31276.37223039685
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 32440.487067100257
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 31180.45147753923
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 30754.94702576036
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29724.973292932424
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 30327.047904897692
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 31212.352478569082
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33181.52186121598
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 31034.96639491362
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 30997.480523274895
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 28455.240720022655
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 29215.43824477499
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 24749.493172488423
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 29135.5862439493
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 28398.558865764582
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.32129005273,
+    "mean_fitness": 26925.12802914239
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28002.342367407407
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 26340.433930968895
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28310.526757837502
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 23627.200701233487
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 27195.678043306667
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 25552.746368196913
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26479.178842446865
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23674.64866068263
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 46938.8898899753
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991186,
+    "mean_fitness": 44603.005652632906
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 42151.74603480252
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 38676.05839826898
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 38323.17339229189
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 33118.534676407326
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205620.57021080534,
+    "mean_fitness": 35851.527440207305
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36196.70016728869
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33861.48200984456
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 33236.31643575513
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 33720.566113850786
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204945.10826131862,
+    "mean_fitness": 34429.37919186056
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156898.97859354323,
+    "mean_fitness": 33074.48971678332
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204667.29411744027,
+    "mean_fitness": 35777.76201514116
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 31603.61724421324
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 34138.562676962094
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 31115.3599306937
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34473.925260560565
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 35237.24404044412
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 31565.416754330643
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 158001.62732720363,
+    "mean_fitness": 34234.26828302977
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 30178.025624237747
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.08769047217,
+    "mean_fitness": 33453.95456877657
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155234.41517248336,
+    "mean_fitness": 31910.43713349013
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34488.46923243524
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 33503.29205799226
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943938,
+    "mean_fitness": 32558.59430376586
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 36133.233704061364
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 34704.170050999644
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204842.2249656332,
+    "mean_fitness": 31335.616484518196
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154877.07202191136,
+    "mean_fitness": 31589.64414368652
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 31214.175184886604
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 33110.02025588515
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 31447.98514934556
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 29078.072757092206
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 29040.3240060482
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30486.91206522479
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 29608.80419107717
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 28847.02485881732
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154530.6126798403,
+    "mean_fitness": 31070.608285469087
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 27433.643571754346
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 28183.358296648694
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28862.428008716146
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157373.34883337215,
+    "mean_fitness": 27403.836609310096
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28208.56792729099
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 26094.533116643674
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 27425.13100838915
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 23210.34418965862
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 23879.664802219766
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 22321.169085298683
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24661.180255601736
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157373.34883337218,
+    "mean_fitness": 47997.796576941226
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 42986.52068767817
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 40931.41305966201
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 36633.293118566195
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 36492.221989077225
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 36571.32018981465
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205620.57021080534,
+    "mean_fitness": 35068.76267361886
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205223.83031103047,
+    "mean_fitness": 34703.24523239771
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 35481.7592194565
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156516.13046150337,
+    "mean_fitness": 35135.8906298661
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205307.62191105104,
+    "mean_fitness": 35055.243741421575
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 34486.04310131836
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 33006.675751242175
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 34262.67201712775
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 29756.675632830415
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204920.0561905562,
+    "mean_fitness": 34409.89179308445
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 35195.78404367101
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205274.1604509509,
+    "mean_fitness": 35832.93323150414
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157429.88996839267,
+    "mean_fitness": 33549.126470329444
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207895.2645938392,
+    "mean_fitness": 30733.786161960583
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 31923.634066591418
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 32160.800492727445
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 33976.28024717673
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.3212900527,
+    "mean_fitness": 32362.077929721032
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204667.29411744024,
+    "mean_fitness": 34526.57941752509
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 31143.45307599924
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 33513.451065689864
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 29941.91359185559
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 33700.73170198823
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31232.570475662313
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157392.99855509418,
+    "mean_fitness": 30038.804036487392
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31385.139337505465
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 32836.66738129303
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33191.3587925854
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 31123.575495514382
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754443,
+    "mean_fitness": 31953.261903012804
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 28679.338077560413
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 30990.113850595917
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 28219.13192142958
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 30269.20310052745
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 30853.736298964777
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 28601.184974773583
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 25882.436992711173
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 28318.145259197863
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154679.80639435057,
+    "mean_fitness": 27821.223210318036
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26497.238262416613
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 23984.401633489993
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25991.813448261582
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157429.88996839267,
+    "mean_fitness": 25846.27954236592
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 23629.55126633964
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24229.59580095502
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 47373.74575933899
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 44384.407198085755
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 40580.224885645555
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 37851.230662399656
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204920.0561905562,
+    "mean_fitness": 38084.50680800766
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 37136.41446393282
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204885.439774025,
+    "mean_fitness": 37780.90388019573
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 34182.55650874375
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 35971.23190660869
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900295,
+    "mean_fitness": 36697.936569754514
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 35715.07659650292
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 35224.44375181249
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 34299.08525391569
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 33227.97131019829
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 32525.70290491836
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205293.75155237695,
+    "mean_fitness": 36411.83756271705
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204920.0561905562,
+    "mean_fitness": 36106.99233743328
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 34107.37349512379
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 33627.38979927154
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 33923.565346128984
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156523.99059902967,
+    "mean_fitness": 34490.33566229222
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.32129005273,
+    "mean_fitness": 31331.923297060217
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 34062.610462427416
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 36691.161921478066
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 34682.97243554175
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156693.41393357486,
+    "mean_fitness": 33492.2333175847
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 29935.009681261283
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 32272.046087643557
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 33596.71691415476
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 206719.02300421547,
+    "mean_fitness": 34047.08910942448
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 29501.849298786663
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 30344.097987187546
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155440.17548078584,
+    "mean_fitness": 31973.63702962742
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28058.14866121841
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 31133.33602554631
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30096.775953143875
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27428.170947754075
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27674.719826941462
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30558.15290840268
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 28055.81016980972
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 27884.648467940784
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29532.067837538933
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 28699.296858644928
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 25859.64121691197
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155367.94313770178,
+    "mean_fitness": 25709.283585586218
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26068.352008649756
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26733.82470974675
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26243.936811639083
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24136.203049520765
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 26517.342850190293
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 24774.9836811501
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 45398.33567223988
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 46771.28735224958
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 40169.141801354126
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204667.29411744024,
+    "mean_fitness": 39359.26811778652
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204842.22496563318,
+    "mean_fitness": 37274.531701750886
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157670.5399192915,
+    "mean_fitness": 35818.02197005142
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 35676.420237418184
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 37007.21920444508
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 35309.24114837392
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 31792.48463009207
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 32229.252338287857
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 37163.7785526352
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34043.1527010531
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157401.39695823754,
+    "mean_fitness": 35506.183104159805
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205223.83031103047,
+    "mean_fitness": 33657.29966078268
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 33549.69589349709
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 33095.25610839033
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 34232.48642506815
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 34188.96325905489
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 37612.81191427076
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 35051.34457011091
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155583.78481572296,
+    "mean_fitness": 31729.12939362647
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 34853.04450876408
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 31628.225265565263
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155403.55572659726,
+    "mean_fitness": 34037.581026199216
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33990.39765842951
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 33573.23518655013
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 34202.80962882999
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 31830.67477057981
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 31694.597735660613
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 33607.38221871612
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 29929.374200502407
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30552.885184783427
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 28149.23952122489
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 30726.154050398756
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 28972.889917825698
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28170.605464964035
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 27703.552863223333
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29959.291950515315
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 29901.904600887443
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 27989.57806516456
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 27448.473127601388
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 28030.462034656495
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155543.14752699583,
+    "mean_fitness": 27789.708043465234
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 25255.324998434957
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154679.8063943506,
+    "mean_fitness": 25333.320107024254
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 25220.436991368148
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155779.8841764728,
+    "mean_fitness": 25277.028586346994
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 26703.254366962487
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 23216.52873382091
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 23808.45491080998
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 51801.153883856525
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 45519.93371397251
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 43234.69007187385
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205670.45335743326,
+    "mean_fitness": 39208.865530642746
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204667.29411744024,
+    "mean_fitness": 39146.25469469403
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 38444.81390161293
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 38243.402554287946
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.3212900527,
+    "mean_fitness": 33595.014945238174
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755895,
+    "mean_fitness": 37068.99141391632
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156923.48650638555,
+    "mean_fitness": 35328.66447482704
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 35839.991424958236
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.8186344905,
+    "mean_fitness": 33077.82713409297
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 33587.74652030897
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 206771.59860524777,
+    "mean_fitness": 34329.43130262889
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 31966.312086931815
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900295,
+    "mean_fitness": 32035.62792233233
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 33515.10322093066
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205122.4487516198,
+    "mean_fitness": 34968.63752472738
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31935.669281940824
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 34675.91281918509
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34298.65448625402
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 35415.3341100852
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205293.75155237695,
+    "mean_fitness": 34750.75715746177
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204720.53756498243,
+    "mean_fitness": 32245.070310612893
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 33838.44680223642
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 33836.33170632345
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31783.789731665103
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.81863449048,
+    "mean_fitness": 32048.823072627707
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155543.14752699583,
+    "mean_fitness": 31345.7095135333
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 29980.56836500967
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 33928.46689244267
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 30352.33966594718
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.08769047217,
+    "mean_fitness": 31371.60077096552
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 30722.161176291356
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 28720.477817266834
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 30624.933182928922
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30094.67915611677
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.81863449045,
+    "mean_fitness": 30873.687529401148
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 29179.986632422995
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154948.88462153298,
+    "mean_fitness": 29086.038283137786
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204581.75535694728,
+    "mean_fitness": 30759.54057052411
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 29612.24950063031
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 27800.328426415825
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 27022.233017962455
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 26153.053780113936
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154757.76805086585,
+    "mean_fitness": 27452.678854078695
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 25945.685707476336
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 26055.10300169701
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.65803322627,
+    "mean_fitness": 23420.13709362642
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24380.45769035848
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 22624.239910586683
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 47806.630153865925
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204842.22496563318,
+    "mean_fitness": 43722.78952203632
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 43553.753320489275
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 38992.23838092585
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207171.2838703877,
+    "mean_fitness": 38365.15882444632
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 203952.7171046883,
+    "mean_fitness": 34503.76170392577
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 35914.87297426224
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 35293.44974340487
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.48858228113,
+    "mean_fitness": 35904.49822099675
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36105.594430292105
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 33490.50101526831
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 35544.81309061993
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 37016.9526974687
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 32577.202910107055
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668855,
+    "mean_fitness": 33244.05727949803
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155264.56806607384,
+    "mean_fitness": 33194.49027542933
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 34408.82713506774
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204945.10826131862,
+    "mean_fitness": 32128.811884878858
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 33820.98020147291
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157101.9042454484,
+    "mean_fitness": 33229.36846817368
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 33950.64372448073
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 32522.375479638667
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.57747668712,
+    "mean_fitness": 32779.05289974063
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 33116.01325838771
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 33712.505215090205
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157405.3820555504,
+    "mean_fitness": 33670.86019316305
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 35074.27812677478
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 32299.762117595135
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 33244.942500906676
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 29824.12030847799
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30268.01732665137
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31501.964345202006
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 30427.50810304912
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 28591.92377443057
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 29817.842120605823
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 32230.975708211172
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204880.0033648453,
+    "mean_fitness": 31349.250755192938
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 29477.86865806393
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 30125.557432359787
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28478.07021940924
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154679.8063943506,
+    "mean_fitness": 28187.195296625974
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29782.20999756163
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27623.343992836966
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26948.958813298115
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30164.169706905428
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26693.10401776603
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25088.828574362225
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 26261.289757317812
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 21732.66483978637
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23856.752161478453
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23710.167919024458
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 45872.336367914795
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 46712.80422127682
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205610.0751624892,
+    "mean_fitness": 40553.96037021277
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 37993.94455947397
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 36643.37617053798
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 37252.085024767424
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 35224.31077696208
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204720.53756498243,
+    "mean_fitness": 33616.47339501152
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 32476.449003022917
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156321.3151567057,
+    "mean_fitness": 35589.69428867093
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 158001.62732720363,
+    "mean_fitness": 34430.11314635321
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 33812.05703862851
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 32589.613237772806
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 35098.33978315654
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 33203.29370961857
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 30821.320776526296
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 34414.33754156588
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 35964.84963696478
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 34781.95543669988
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207049.60447345575,
+    "mean_fitness": 33241.475673903595
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 31955.464809809713
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 32484.68043124539
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155367.94313770178,
+    "mean_fitness": 34137.51035930938
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157373.34883337218,
+    "mean_fitness": 31496.58934737268
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30646.71024600933
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 33682.400650872245
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 31259.42847959809
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 31899.798118245963
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31411.315791741057
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31393.174160367907
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31468.06090253756
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991185998,
+    "mean_fitness": 31278.89888511345
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 31943.16528708132
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155234.41517248336,
+    "mean_fitness": 32231.03885494988
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 31717.109639981645
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28325.39427370793
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28831.943810941943
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 30518.64218963428
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28864.667131425038
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 29219.189484453866
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 29096.737460015738
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 30552.001792343708
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 26187.27253515116
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 27752.127919347702
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 26812.340081922506
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 26364.452152368067
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 25749.819285623067
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24641.644529638124
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27140.759987249152
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 25816.728665961266
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26729.3745203011
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 48136.53233484425
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 43703.651444058
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 39046.22641944378
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157411.50719331804,
+    "mean_fitness": 34789.4220855293
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 36270.63953046738
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 35764.49491612802
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157101.9042454484,
+    "mean_fitness": 35571.49940893002
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 35218.355472673866
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204380.55016279698,
+    "mean_fitness": 34589.332060934175
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.48858228113,
+    "mean_fitness": 34773.237093640426
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 36138.77136885424
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 32615.927251622088
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 34365.41100064102
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 34390.39320070677
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 34978.682544878546
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 33669.2249271926
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31712.888590935097
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156693.41393357486,
+    "mean_fitness": 34426.82372160333
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156523.99059902967,
+    "mean_fitness": 35057.7806172874
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155779.88417647284,
+    "mean_fitness": 33006.7999305924
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 33608.89811242829
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 38562.38289713644
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 33513.757473515136
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157411.50719331804,
+    "mean_fitness": 34370.60710158443
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 34065.88373606781
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 29381.166948411694
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 31149.13055911294
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 30444.008065147533
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31181.089378717043
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 33146.54452359878
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 32326.5182161856
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 29966.953321754885
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155033.01185024076,
+    "mean_fitness": 30575.508817410693
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31306.078198857827
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.32129005273,
+    "mean_fitness": 32346.80317234463
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 29364.767305820504
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 30600.643876381022
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 29069.514968751173
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27639.137262825494
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155779.8841764728,
+    "mean_fitness": 29384.12680114576
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 27550.281071917958
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 30101.796200467503
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28088.181493148746
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157429.88996839267,
+    "mean_fitness": 25871.44107939231
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 26481.925339316058
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28360.870938477474
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 28041.813323304217
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26003.567740375463
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 22167.81403196076
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 21895.431673996485
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 23871.48820456856
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 48546.65914522679
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 45013.16651057659
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 41783.8464865916
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 39565.79272792995
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 38538.32063193103
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 35341.77842390146
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204581.75535694725,
+    "mean_fitness": 38795.4730783118
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 35672.60190222994
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 35088.89635148533
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36211.638450176804
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204842.22496563318,
+    "mean_fitness": 36389.1203124284
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.7329873095,
+    "mean_fitness": 34044.36990131416
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 32979.886176047556
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 34243.18095580665
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156940.03543262137,
+    "mean_fitness": 36307.69307004027
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205212.51766937305,
+    "mean_fitness": 34669.48330687014
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204953.34004083695,
+    "mean_fitness": 34591.03342480144
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 31918.26188500727
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 33674.971773291494
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156693.41393357486,
+    "mean_fitness": 31870.60865048703
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 35283.80616728092
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 30957.887350460154
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 32314.105288654344
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 34062.13050312703
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205307.62191105104,
+    "mean_fitness": 33797.329984756674
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 34101.89887529617
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204581.75535694725,
+    "mean_fitness": 33115.74749510466
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 31629.50876774486
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 32593.904624058552
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 33186.77946904739
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 29859.296791208417
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 27254.686135586093
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30230.73040588906
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30942.411942969386
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33215.49828794069
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 29155.881705016556
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.148029048,
+    "mean_fitness": 30765.141591327934
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 29145.944219725472
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 30671.84510877485
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 28071.131172675687
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 27721.09355598797
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28100.230649429646
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 28342.139335401247
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28698.895455803464
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154449.2389638027,
+    "mean_fitness": 28315.085950251178
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 26806.095186250583
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26409.989315427203
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 25241.218648286867
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27232.270811584207
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 23122.671266678786
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 24757.22177411999
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 51287.283934612424
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 45280.000149032174
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 40050.34513843035
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 36832.60664661187
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204720.53756498243,
+    "mean_fitness": 36591.993964581525
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 34720.97298687336
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 37370.5888748257
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 35317.36504028752
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 37026.62654737712
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157429.8899683927,
+    "mean_fitness": 35351.176336102544
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.08769047217,
+    "mean_fitness": 36509.69426987561
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 34685.991385442154
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204920.0561905562,
+    "mean_fitness": 38428.794787822895
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 34165.2658174916
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 30792.843476688613
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 32413.841778641552
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155212.22599346124,
+    "mean_fitness": 33626.03735138922
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34629.84492889045
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154877.07202191136,
+    "mean_fitness": 33304.121143711694
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 29390.582596392003
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157373.34883337218,
+    "mean_fitness": 31212.889478681227
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156374.9576122664,
+    "mean_fitness": 34159.845047501265
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 31804.315836828195
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 32101.447202007406
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.3543092044,
+    "mean_fitness": 33334.06666235629
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 35321.2872375243
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 33164.476917247994
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31420.294390686508
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 34981.82562804893
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 32421.552480564485
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 29771.30563421375
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 29986.61917152014
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155543.14752699583,
+    "mean_fitness": 33652.24795826789
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 32102.9277896257
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28614.59667185789
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154248.24184510825,
+    "mean_fitness": 30149.49019646913
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 29736.495154142067
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 29882.173108397772
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 30342.30217241916
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 29029.610338471517
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 29606.376021659107
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 27030.7786839609
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 27197.368481990747
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 27104.459285472625
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26501.70283252222
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 28037.83992936196
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24685.609675721793
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 28071.418436483847
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 25799.878631165215
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 24254.408464912158
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 24053.551381395602
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 47784.26726264894
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 44695.976432118056
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207049.60447345572,
+    "mean_fitness": 42807.67565545427
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 206771.59860524777,
+    "mean_fitness": 39014.39421989981
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204346.27965242456,
+    "mean_fitness": 39173.157229418044
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 33821.63940198478
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 32854.68689158813
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 33565.314738153174
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 33008.85024403193
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 36201.76961766773
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 37729.68169537437
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 33827.96299032187
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 32788.91014279117
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 33138.60181927981
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 33471.26615286937
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 33035.77854190117
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 31384.721416943776
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 34739.08344336875
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31743.023604299833
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 34804.543655925605
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.148029048,
+    "mean_fitness": 35238.860225054195
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31913.456142484392
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 34146.00284202836
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 30319.638492811267
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 34301.115685088305
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 33229.843473588786
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 35655.65171389308
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 206771.59860524774,
+    "mean_fitness": 35804.65581439705
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 34592.27482970335
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154948.88462153298,
+    "mean_fitness": 30723.891526145584
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 31195.224152508006
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 32131.24413710097
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 31463.662980177607
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 32694.40967986927
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 27546.070059721176
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 32085.043814540943
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 30213.316081498062
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 30987.553105434105
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 26943.557831045306
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 29349.87383568263
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 31168.789452806715
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 31629.25838456011
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 28321.531776152548
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27023.06096968278
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 26814.98005466509
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27216.488699691614
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154679.8063943506,
+    "mean_fitness": 26114.770671015976
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26897.348349459833
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 25895.154258172603
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 23594.628856172876
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25350.332315510084
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 48883.94985824979
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 44837.84212011199
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 40922.51279360512
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 41310.315332683844
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 36186.6688721245
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 36007.04399444838
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 35608.62504018974
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 34071.754498930095
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 33362.38800192409
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 33560.69481901343
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156523.99059902967,
+    "mean_fitness": 32607.366455868632
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 34742.543377529495
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.57747668712,
+    "mean_fitness": 34003.781334891355
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 32456.480586984657
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 36165.87945223605
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 34711.31385424837
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 33641.125943450745
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 34019.0147328917
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155779.88417647284,
+    "mean_fitness": 34274.33247862985
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207049.60447345575,
+    "mean_fitness": 35018.16655305658
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 33487.754332380595
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 35060.13379805527
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 32089.89417404171
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 32121.900870363846
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155509.47123758978,
+    "mean_fitness": 33165.63604756846
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207576.70514167025,
+    "mean_fitness": 32889.085632821385
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 33230.667712741975
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 34236.09335577762
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30325.087619356324
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31835.239354954367
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 33567.158754329925
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 32167.735606737213
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 33147.05996906098
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205666.9667231667,
+    "mean_fitness": 32534.498708447263
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 30657.27583299775
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 29865.67668653033
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 33162.79374557435
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 206993.3853168349,
+    "mean_fitness": 29004.658417943312
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29621.272715370244
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 28567.521581347144
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 28537.32145826241
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26424.135288911042
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 29505.413670883856
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24873.110962077724
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27676.923587252535
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 25868.64564124801
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 26047.355053755582
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 24167.22203297689
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 21950.898014677605
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 22802.422754689724
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 22755.590212459494
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 45916.62157874459
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 43118.24556668776
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 41367.924159854054
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 36265.726654330574
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755895,
+    "mean_fitness": 34937.57008239609
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 33906.119043490806
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156886.43135308658,
+    "mean_fitness": 35809.38888092639
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 33413.6645480324
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205211.98913686146,
+    "mean_fitness": 34017.10413885259
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 34927.90375451109
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 33796.305922897496
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 35435.411700110126
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 33358.60295924937
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205122.4487516198,
+    "mean_fitness": 33047.50243484928
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 34957.64479314753
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 32199.052606201858
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 33900.30350580354
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 33584.37327046906
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155698.32129005273,
+    "mean_fitness": 34207.739230512925
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155464.35430920444,
+    "mean_fitness": 34072.508419100544
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 33875.646659682236
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 33213.65165858903
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 32126.6625909957
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31263.964336813755
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 32597.811356996845
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 32060.163453794823
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 29479.895532273433
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 35484.6872427035
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155403.55572659726,
+    "mean_fitness": 35643.472043563466
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 31122.174246379862
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 29824.318900913473
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 30391.069312285785
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31359.65446197628
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 30859.82323424552
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 31113.094425479205
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 32281.804545183015
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 30448.11564669811
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 30192.32143471804
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 29771.09700302828
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 28311.410293210145
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28323.06758433395
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155088.9457818356,
+    "mean_fitness": 29036.321243727773
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 28948.959895254375
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155200.18738644017,
+    "mean_fitness": 26073.162198929393
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 26354.92109556451
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 28561.35290952979
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 29937.92763244128
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27765.80281122912
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 25236.2856468403
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 24024.104250508288
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 22410.764912243158
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 46134.8762991963
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 47314.995565924866
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 42066.463580520736
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 41282.03158943552
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 36693.59994802719
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 36645.40289654651
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205076.10428873624,
+    "mean_fitness": 35120.3143340994
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 36223.987002448725
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 35113.839576413535
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 34308.551584556655
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 34750.74430041216
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157343.533390347,
+    "mean_fitness": 34300.8643129812
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155543.14752699583,
+    "mean_fitness": 35152.74531403573
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 34816.657684422375
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 33143.16839429334
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 37336.35554231351
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 34548.342980958885
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 31274.6443191669
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155558.0876904722,
+    "mean_fitness": 32689.385614852123
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 32530.635550752988
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36049.93973490566
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 34586.65541320264
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205307.62191105104,
+    "mean_fitness": 31408.108951630125
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.0077342599,
+    "mean_fitness": 33159.85150816924
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 30113.15097053681
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 31849.366621044133
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 34742.43905824716
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155940.19967666158,
+    "mean_fitness": 34511.51619608705
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 34115.39742771926
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 33867.89564762682
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 31945.51820449892
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 28263.90765204725
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 32120.397665745997
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 32213.492377970226
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 28587.32279173556
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 30593.116273194235
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 32290.800970588196
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28829.681047068276
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 29710.19416255004
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 28448.19705971707
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 28747.118637432028
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26605.966562593054
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 26323.416455235678
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24673.906717253503
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 25610.383436957767
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155898.88416665205,
+    "mean_fitness": 24450.32978060391
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26879.35666379404
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754446,
+    "mean_fitness": 27839.23651292289
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155212.22599346124,
+    "mean_fitness": 25079.57750410941
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 25681.78585235336
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 23545.94540056511
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 49440.11696004133
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205985.0858882678,
+    "mean_fitness": 47325.20554013561
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 42506.239551106555
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 40459.103083707916
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204667.29411744024,
+    "mean_fitness": 37168.8380377701
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 36785.63686475928
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155766.73298730952,
+    "mean_fitness": 33183.63461682317
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180798,
+    "mean_fitness": 36646.97831885988
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 34863.79129761138
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 31917.99549961605
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204880.0033648453,
+    "mean_fitness": 35718.35645835343
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.31951261187,
+    "mean_fitness": 32493.934170022796
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 35258.481518473665
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155543.14752699583,
+    "mean_fitness": 33889.33504938365
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 32026.884665360507
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 34200.5850469921
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 35404.43618482953
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 34463.785272263354
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155264.56806607384,
+    "mean_fitness": 32568.318252524095
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 33201.043035972056
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 35478.11669578312
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 35752.869686084276
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 33107.478226860396
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 34734.06819101692
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705993,
+    "mean_fitness": 32143.066103380963
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943938,
+    "mean_fitness": 32501.46337398359
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 33316.466972559625
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31400.979010549312
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 32609.746891103146
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 31154.745896157994
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 30779.578336956598
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155740.81863449048,
+    "mean_fitness": 32192.1925582295
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 28853.19111575222
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 30671.22599443605
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 31170.552489250054
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 28360.64144864573
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 31674.135018311204
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 27906.197740952997
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 26385.238766353978
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 30061.477379452008
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 27143.777717357305
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27207.43459691872
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25689.72662908436
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 25148.7702861478
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755898,
+    "mean_fitness": 27789.52643561492
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 25245.935255466808
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 23984.880397174427
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 24334.134348265256
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 26699.447577367093
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 23416.21319975158
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 24063.22017525724
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 48738.38849633532
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 47711.878493923134
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 39666.36339305151
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 38570.34319152689
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204447.3665962342,
+    "mean_fitness": 36680.00489450052
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155469.0479267246,
+    "mean_fitness": 35722.33872877429
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 34519.35349150645
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 36671.48067001272
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 207049.60447345572,
+    "mean_fitness": 36921.116678995815
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991185998,
+    "mean_fitness": 34576.17931409086
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157634.47608817785,
+    "mean_fitness": 34244.69964182279
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155854.30094754443,
+    "mean_fitness": 34166.31763600446
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 35129.903783938506
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 36424.025951488875
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36063.12023364405
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 32586.949480360257
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205578.61696755895,
+    "mean_fitness": 32801.40397844137
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157345.62558299454,
+    "mean_fitness": 32940.770452519166
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 32537.190045287505
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.6401146174,
+    "mean_fitness": 32272.921716184566
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 33593.59185167418
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 31769.517657598848
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155789.88039995462,
+    "mean_fitness": 33299.630557036406
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155257.40974565133,
+    "mean_fitness": 28791.683728190117
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154640.07024692575,
+    "mean_fitness": 32475.663658544738
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 32818.696716273815
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 32461.14081942482
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204973.00773425994,
+    "mean_fitness": 33900.961488877874
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155551.92226943935,
+    "mean_fitness": 31494.30161363051
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 32688.389787085776
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205139.96581398902,
+    "mean_fitness": 30219.28971044313
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204646.88522180796,
+    "mean_fitness": 33648.50384253146
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.5426992738,
+    "mean_fitness": 31539.7716077975
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156049.55098900298,
+    "mean_fitness": 29819.83869760668
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 31775.74787634537
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539827,
+    "mean_fitness": 29474.743155678807
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155289.5086584349,
+    "mean_fitness": 28612.983156956372
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155531.58083668858,
+    "mean_fitness": 29520.05897557419
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991185998,
+    "mean_fitness": 28959.00739897993
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 29600.649867824206
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27265.204188431766
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 27191.36139806931
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 26910.860687207613
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154796.1783110239,
+    "mean_fitness": 27634.969563984258
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26513.38908393804
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 26570.064934255417
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154018.73683839873,
+    "mean_fitness": 29580.392849793952
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155234.41517248336,
+    "mean_fitness": 23680.667621165892
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155124.6580332263,
+    "mean_fitness": 24474.281931640802
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 23047.704820798444
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 154679.80639435057,
+    "mean_fitness": 22093.92227282466
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205078.05952705996,
+    "mean_fitness": 48020.10089479876
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205220.0539508161,
+    "mean_fitness": 46643.126818848374
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 43238.10475020555
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205204.35276527735,
+    "mean_fitness": 38789.34890427488
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204866.81274301402,
+    "mean_fitness": 34341.5996031332
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 35598.143027601946
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 36033.648431937894
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205300.14421391796,
+    "mean_fitness": 36021.88512267611
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156693.41393357486,
+    "mean_fitness": 30054.737747167703
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155534.658405478,
+    "mean_fitness": 34820.854723296216
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204885.439774025,
+    "mean_fitness": 35827.63885540021
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205381.3195126119,
+    "mean_fitness": 35897.51707643236
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157411.50719331804,
+    "mean_fitness": 33678.059333857826
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991185998,
+    "mean_fitness": 32775.785818489174
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 34275.86740732227
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204945.10826131862,
+    "mean_fitness": 35081.310132653765
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156693.41393357486,
+    "mean_fitness": 34789.93500879445
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205498.20037613262,
+    "mean_fitness": 34441.05593131108
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156397.87878587242,
+    "mean_fitness": 32883.56417004963
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 157393.52991185998,
+    "mean_fitness": 34137.81145550879
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156289.91450883407,
+    "mean_fitness": 34500.462417528564
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155857.64011461742,
+    "mean_fitness": 36104.90831434419
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 204754.65700539824,
+    "mean_fitness": 33213.50220028564
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 205012.9990437993,
+    "mean_fitness": 32985.152533442524
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 155249.54269927376,
+    "mean_fitness": 34987.73518886974
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156163.4885822811,
+    "mean_fitness": 33650.60782154645
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 30402.30798296711
+  },
+  {
+    "best_fitness": 4058.0719596734743,
+    "worst_fitness": 156363.42415099428,
+    "mean_fitness": 34536.343279626446
+  }
+]
