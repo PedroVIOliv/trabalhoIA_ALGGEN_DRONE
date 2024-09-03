@@ -27,9 +27,7 @@ cdef class DroneDeliveryProblem:
     cdef public bint viable_solution
     cdef public double mutation_rate
 
-    def __init__(self, str json_file):
-        with open(json_file, 'r') as f:
-            data = json.load(f)
+    def __init__(self, data):
         self.points = [Point(p['x'], p['y'], p['peso']) for p in data['pontos']]
         self.base = self.points[0]  # Assuming first and last points are the base
         self.drone_weight = data['drone_weight']
@@ -258,20 +256,3 @@ cdef class GeneticAlgorithm:
 
     cdef double _get_fitness(self, Individual individual):
         return individual.fitness
-
-# Usage
-def main():
-    problem = DroneDeliveryProblem('drone_problem_2.json')
-    ga = GeneticAlgorithm(problem)
-    best_path, best_fitness = ga.run()
-
-    with open('best_5_per_generation.json', 'w') as f:
-        json.dump(ga.best_5_per_generation, f)
-    with open('fitness_over_time.json', 'w') as f:
-        json.dump(ga.fitness_over_time, f)
-
-    print(f"Best path: {best_path}")
-    print(f"Best fitness: {best_fitness}")
-
-if __name__ == "__main__":
-    main()
