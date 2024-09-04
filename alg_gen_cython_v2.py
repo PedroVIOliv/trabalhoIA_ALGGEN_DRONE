@@ -9,7 +9,7 @@ def process_file(file_name):
         problemData = json.load(f)
         
     problem = DroneDeliveryProblem(problemData)
-    ga = GeneticAlgorithm(problem, population_size=2000, generations=700)
+    ga = GeneticAlgorithm(problem, population_size=1000, generations=1000)
     best_path, best_fitness = ga.run()
     
     file_number = file_name.split('_')[-1].split('.')[0]
