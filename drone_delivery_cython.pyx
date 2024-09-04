@@ -8,6 +8,17 @@ from cpython cimport array
 import array
 import time
 
+cdef dict build_generation_data(list population, int generation):
+    cdef list population_copy = [ind for ind in population.copy() if ind.is_valid]
+    cdef int population_length = len(population_copy)
+
+    return {
+        'generation': generation,
+        'best_fitness': population_copy[0].fitness if population_length > 0 else -1,
+        'worst_fitness': population_copy[-1].fitness if population_length > 0 else -1,
+        'mean_fitness': (sum([ind.fitness for ind in population_copy]) / population_length) if population_length > 0 else -1,
+    }
+
 cdef class Point:
     cdef public double x
     cdef public double y
@@ -42,7 +53,7 @@ cdef class DroneDeliveryProblem:
 
     @cython.boundscheck(False)
     @cython.wraparound(False)
-    cpdef double calculate_fitness(self, list path):
+    cpdef double calculate_fitness(self, list path, Individual individual):
         cdef bint is_viable_solution = True
         cdef double total_battery_usage = 0
         cdef double current_weight = self.drone_weight
@@ -66,6 +77,7 @@ cdef class DroneDeliveryProblem:
             if current_battery < 0 or current_weight > self.max_capacity:
                 total_battery_usage += 50000
                 is_viable_solution = False
+                individual.is_valid = False
 
             if path[i-1] == 0:
                 current_weight = self.drone_weight
@@ -80,18 +92,20 @@ cdef class Individual:
     cdef public list path
     cdef public DroneDeliveryProblem problem
     cdef public double fitness
+    cdef public bint is_valid
 
     def __init__(self, list path, DroneDeliveryProblem problem):
         self.path = path
         self.problem = problem
         self.fitness = 0.0
+        self.is_valid = True
         self.normalize()
         if random.random() < self.problem.mutation_rate:
             self.mutate()
         self.calculate_fitness()
 
     cpdef void calculate_fitness(self):
-        self.fitness = self.problem.calculate_fitness(self.path)
+        self.fitness = self.problem.calculate_fitness(self.path, self)
 
     cpdef void mutate(self):
         cdef int i, j
@@ -222,17 +236,15 @@ cdef class GeneticAlgorithm:
         for generation in range(self.generations):
             population.sort(key=self._get_fitness)
 
-            current_best_fitness = population[0].fitness
-            current_worst_fitness = population[-1].fitness
-            mean_fitness = sum([ind.fitness for ind in population]) / self.population_size
-            self.generation_data.append({
-                'best_fitness': current_best_fitness,
-                'worst_fitness': current_worst_fitness,
-                'mean_fitness': mean_fitness
-            })
+            # Save generation data to build graph
+            generation_data = build_generation_data(population, generation)
+            self.generation_data.append(generation_data)
 
+            current_best_fitness = population[0].fitness
+            
             elapsed_time = time.time() - start_time
-            self.fitness_over_time.append((current_best_fitness, elapsed_time))
+            if generation_data['best_fitness'] != -1:
+                self.fitness_over_time.append((generation_data['best_fitness'], elapsed_time))
 
             if current_best_fitness < self.best_fitness:
                 self.best_fitness = current_best_fitness

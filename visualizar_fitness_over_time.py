@@ -2,7 +2,7 @@ import json
 import os
 import matplotlib.pyplot as plt
 
-def filtrar_pontos(tempo, fitness, distancia_minima=5):
+def filtrar_pontos(tempo, fitness, distancia_minima=1):
     """Remove pontos próximos com base na distância mínima."""
     pontos_filtrados = []
     ult_tempo, ult_fitness = None, None

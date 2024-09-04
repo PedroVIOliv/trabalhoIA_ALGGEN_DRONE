@@ -84,7 +84,7 @@ for file_name in files:
     # Configurações do gráfico
     ax.set_title(f'Consumo de Bateria {best_fitness_rounded:.2f}')
     ax.grid(True)
-    ax.legend()
+    ax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.05), fancybox=True, shadow=True, ncol=5)    
     
     # Ajustar o layout para evitar sobreposição
     plt.tight_layout()
